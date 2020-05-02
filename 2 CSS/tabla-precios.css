@@ -1,0 +1,32 @@
+.container{
+    margin: 0 auto;
+    width: 90%;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.btn-precio{
+    background: tomato;
+    display: block;
+}
+
+.flex{
+    display: flex;
+}
+
+.text-center{
+    text-align: center;
+}
+.columna{
+    background: rgb(228, 228, 228);
+    color: #333;
+    border: 1px solid #333;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: -10px 10px 10px rgb(122, 115, 115);
+}
+.precio{
+    font-size: 50px;
+    color: #00dac7;
+}

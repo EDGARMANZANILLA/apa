@@ -1,0 +1,25 @@
+nav{
+    background: aqua;
+    color: black;
+    
+    padding: 30px;
+}
+
+.columna{
+    background: brown;
+    color: white;
+    padding: 20px;
+    margin-right: 35px;
+    margin-left: 35px;
+}
+
+a{
+    color: black;
+    font-size: 30px;
+    margin-left: 300px;
+   
+}
+
+.padre{
+    display: flex;
+}

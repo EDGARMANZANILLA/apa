@@ -1,0 +1,19 @@
+h5{
+    color: chartreuse;
+    font-size: 250px;
+}
+
+h1{
+    color: forestgreen;
+}
+#unico{
+    color: fuchsia;
+    font-size: 10px;    
+}
+
+.parrafo{
+    color: orange;
+}
+.fondo{
+    background-color: paleturquoise;
+}
